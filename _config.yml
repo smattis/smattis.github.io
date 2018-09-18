@@ -85,9 +85,9 @@ author:
   location         : "Garching, Germany"
   employer         :
   googlescholar    : "https://scholar.google.de/citations?user=iFtYd9QAAAAJ&hl=en&oi=sra"
-  email            : "mattis@ma.tum.de"
+  email            : #"mattis@ma.tum.de"
   uri              :
-  bitbucket        :
+  bitbucket        : "smattis"
   codepen          :
   dribbble         :
   flickr           :
