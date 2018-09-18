@@ -8,12 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-##Research Interests:##
+#Research Interests:#
 Applied Mathematics, Computational Hydrology, Finite Element Methods, Fluid-Structure Interaction, Uncertainty Quantification, Transport Models, Error Estimation, Surrogate Modeling, Dimension Reduction
 	
-##Contact##
+#Contact#
 **Address:** 
-M2 - Lehrstuhl für Numerische Mathematik	
+M2 - Chair of Numerical Mathematics	
 Boltzmannstraße 3	
 85748 Garching 
 
