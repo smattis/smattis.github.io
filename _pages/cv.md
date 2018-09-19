@@ -11,30 +11,70 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* The University of Texas at Austin, Austin, TX, Ph.D., Computational and Applied Mathematics, August, 2013 
+ 
+* The University of Texas at Austin, Austin, TX, M.S., Computational and Applied Mathematics, August, 2010
+ 
+* The University of Notre Dame, Notre Dame, IN, B.S., Mathematics, May, 2008
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* October 2016-present: Postdoctoral Researcher
+  * Technical University of Munich
+  * Department of Mathematics
+  * Chair of Numerical Mathematics
+  * Supervisor: Prof. Barbara Wohlmuth
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* August 2013-September 2016: Postdoctoral Researcher
+  * The University of Texas at Austin
+  * Institute for Computational Engineering and Sciences
+  * Supervisor: Prof. Clint Dawson
+
+* August 2014-May 2015: Lecturer
+  * The University of Texas at Austin
+  * Department of Aerospace Engineering and Engineering Mechanics
+
+* August 2008-August 2013: Graduate Research Assistant
+  * The University of Texas at Austin
+  * Institute for Computational Engineering and Sciences
+  * Supervisor: Prof. Clint Dawson
+
+* November 2006-May 2008: Undergraduate Researcher
+  * The University of Notre Dame
+  * Department of Mathematics
+  * Supervisor: Prof. Jeffrey Diller
+
+* June 2007-August 2007: Summer Researcher
+  * North Carolina State University
+  * Department of Mathematics
+  * SF Research Experience for Undergraduates
+  * Supervisor: Sharon Lubkin
   
-Skills
+* August 2006-May 2008: Grader
+  * The University of Notre Dame
+  * Department of Mathematics
+  
+Professional Affiliations
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Officer, Society for Industrial and Applied Mathematics UT Student Chapter,  2009-2012. 
+
+* Member, Society for Industrial and Applied Mathematics, 2008-Present. 
+
+* Member, American Geophysical Union, 2014-Present
+
+Honors, Awards, & Fellowships
+======
+* SIAM Student Travel Award, SIAM Geosciences, 2013 
+
+* SIAM Student Chapter Certificate of Recognition, 2013 
+
+* National Defense Science and Engineering Graduate Fellowship, 2010-2013
+
+* The Graduate Dean's Prestigious Fellowship Supplement Award, 2010-2011, 2012-2013 
+
+* Computational and Applied Mathematics Graduate Fellowship, University of Texas at Austin, 2009-2010.
+
+* Graduated Magna Cum Laude in The College of Science, University of Notre Dame
 
 Publications
 ======

@@ -21,8 +21,8 @@ Applied Mathematics, Computational Hydrology, Finite Element Methods, Fluid-Stru
 **Contact:**
 ======
 * Address: 
-  M2 - Chair of Numerical Mathematics	
-  Boltzmannstraße 3	
+  M2 - Chair of Numerical Mathematics,	
+  Boltzmannstraße 3,	
   85748 Garching, Germany
 * Office: 03.10.055	
 * Phone: +49 89 289 18404	
