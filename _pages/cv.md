@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+A PDF of my full CV can be found [here](../files/mattisCV.pdf).
+
 Education
 ======
 * The University of Texas at Austin, Austin, TX, Ph.D., Computational and Applied Mathematics, August, 2013 
