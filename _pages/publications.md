@@ -20,9 +20,9 @@ He, J., **S. Mattis**, T. Butler, and C. Dawson, "Data-driven uncertainty quanti
 
 **Mattis, S.**, Kees, C., Wei, M., Dimakopoulos, A. and Dawson, C. "Computational model for wave attenuation by flexible vegetation." *Journal of Waterway, Port, Coastal and Ocean Engineering* (accepted).
 
-**Mattis, Steven A.**, and Barbara Wohlmuth. "Goal-oriented adaptive surrogate construction for stochastic inversion." *Computer Methods in Applied Mechanics and Engineering* 339 (2018): 36-60.
+**Mattis, Steven A.**, and Barbara Wohlmuth. "Goal-oriented adaptive surrogate construction for stochastic inversion." *Computer Methods in Applied Mechanics and Engineering* 339 (2018): 36-60. [link](https://doi.org/10.1016/j.cma.2018.04.045)
 
-Butler, T., L. Graham, **S. Mattis**, and S. Walsh "A measure-theoretic interpretation of sample based numerical integration with applications to inverse and prediction problems under uncertainty." *SIAM Journal on Scientific Computing*, 39.5 (2017): A2072-A2098.
+Butler, T., L. Graham, **S. Mattis**, and S. Walsh "A measure-theoretic interpretation of sample based numerical integration with applications to inverse and prediction problems under uncertainty." *SIAM Journal on Scientific Computing*, 39.5 (2017): A2072-A2098. 
 
 Presho, M., **S. Mattis**, and C. Dawson. "Uncertainty quantification of two-phase flow problems via measure theory and the generalized multiscale finite element method." *Computational Geosciences* 21.2 (2017): 187-204.
 
