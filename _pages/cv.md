@@ -20,7 +20,7 @@ Education
 Work experience
 ======
 * October 2016-present: Postdoctoral Researcher
-  * Technical University of Munich
+  * The Technical University of Munich
   * Department of Mathematics
   * Chair of Numerical Mathematics
   * Supervisor: Prof. Barbara Wohlmuth
@@ -28,6 +28,7 @@ Work experience
 * August 2013-September 2016: Postdoctoral Researcher
   * The University of Texas at Austin
   * Institute for Computational Engineering and Sciences
+  * Computational Hydraulics Group
   * Supervisor: Prof. Clint Dawson
 
 * August 2014-May 2015: Lecturer
@@ -37,6 +38,7 @@ Work experience
 * August 2008-August 2013: Graduate Research Assistant
   * The University of Texas at Austin
   * Institute for Computational Engineering and Sciences
+  * Computational Hydraulic Group
   * Supervisor: Prof. Clint Dawson
 
 * November 2006-May 2008: Undergraduate Researcher
@@ -47,8 +49,8 @@ Work experience
 * June 2007-August 2007: Summer Researcher
   * North Carolina State University
   * Department of Mathematics
-  * SF Research Experience for Undergraduates
-  * Supervisor: Sharon Lubkin
+  * NSF Research Experience for Undergraduates
+  * Supervisor: Prof. Sharon Lubkin
   
 * August 2006-May 2008: Grader
   * The University of Notre Dame
