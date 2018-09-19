@@ -76,6 +76,13 @@ Honors, Awards, & Fellowships
 
 * Graduated Magna Cum Laude in The College of Science, University of Notre Dame
 
+Software Projects
+======
+ * BET: Butler, Estep, Tavener Method - A python based package for measure-theoretic stochastic inverse and forward problems. https://github.com/UT-CHG/BET
+ 
+ * PROTEUS: A computational methods and simulation toolkit. https://github.com/erdc-cm/proteus
+
+<!---
 Publications
 ======
   <ul>{% for post in site.publications %}
@@ -97,3 +104,4 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+-->
