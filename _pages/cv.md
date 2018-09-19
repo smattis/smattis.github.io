@@ -80,7 +80,7 @@ Honors, Awards, & Fellowships
 
 Software Projects
 ======
- * BET: Butler, Estep, Tavener Method - A python based package for measure-theoretic stochastic inverse and forward problems. https://github.com/UT-CHG/BET
+ * BET: Butler, Estep, Tavener Method - A python based package for measure-theoretic stochastic inverse and forward problems. [(GitHub)](https://github.com/UT-CHG/BET)
  
- * PROTEUS: A computational methods and simulation toolkit. https://github.com/erdc-cm/proteus
+ * PROTEUS: A computational methods and simulation toolkit. [(GitHub)](https://github.com/erdc-cm/proteus)
 
