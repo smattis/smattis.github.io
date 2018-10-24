@@ -18,7 +18,7 @@ Parente, M. T., **Mattis, S.**, Gupta, S., Deusner, C., and B. Wohlmuth. "Effici
 
 He, J., **S. Mattis**, T. Butler, and C. Dawson, "Data-driven uncertainty quantification for predictive flow and transport modeling using support vector machines." *Computational Geosciences* (accepted). [(<u>DOI</u>)](https://doi.org/10.1007/s10596-018-9762-4)
 
-**Mattis, S.**, Kees, C., Wei, M., Dimakopoulos, A. and Dawson, C. "Computational model for wave attenuation by flexible vegetation." *Journal of Waterway, Port, Coastal and Ocean Engineering* (accepted).
+**Mattis, S.**, Kees, C., Wei, M., Dimakopoulos, A. and Dawson, C. "Computational model for wave attenuation by flexible vegetation." *Journal of Waterway, Port, Coastal and Ocean Engineering* (accepted). [(<u>DOI</u>)](https://doi.org/10.1061/(ASCE)WW.1943-5460.0000487)
 
 **Mattis, Steven A.**, and Barbara Wohlmuth. "Goal-oriented adaptive surrogate construction for stochastic inversion." *Computer Methods in Applied Mechanics and Engineering* 339 (2018): 36-60. [(<u>DOI</u>)](https://doi.org/10.1016/j.cma.2018.04.045)
 
