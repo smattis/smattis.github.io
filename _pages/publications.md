@@ -14,11 +14,13 @@ DISSERTATIONS & THESES
 
 JOURNAL ARTICLES
 ======
+**Mattis, S.** and T. Butler, "Enhancing piecewise defined surrogate response surfaces with adjoints on sets of unstructured samples to solve stochastic inverse problems." (accepted) *International Journal for Numerical Methods in Engineering*
+
 Parente, M. T., **Mattis, S.**, Gupta, S., Deusner, C., and B. Wohlmuth. "Efficient parameter estimation for a methane hydrate model with active subspaces." *Computational Geosciences* (accepted). [(<u>DOI</u>)](https://doi.org/10.1007/s10596-018-9769-x)
 
 He, J., **S. Mattis**, T. Butler, and C. Dawson, "Data-driven uncertainty quantification for predictive flow and transport modeling using support vector machines." *Computational Geosciences* (accepted). [(<u>DOI</u>)](https://doi.org/10.1007/s10596-018-9762-4)
 
-**Mattis, S.**, Kees, C., Wei, M., Dimakopoulos, A. and Dawson, C. "Computational model for wave attenuation by flexible vegetation." *Journal of Waterway, Port, Coastal and Ocean Engineering* (accepted). [(<u>DOI</u>)](https://doi.org/10.1061/(ASCE)WW.1943-5460.0000487)
+**Mattis, S.**, Kees, C., Wei, M., Dimakopoulos, A. and Dawson, C. "Computational model for wave attenuation by flexible vegetation." *Journal of Waterway, Port, Coastal and Ocean Engineering* 145.1 (2018): 04018033. [(<u>DOI</u>)](https://doi.org/10.1061/(ASCE)WW.1943-5460.0000487)
 
 **Mattis, Steven A.**, and Barbara Wohlmuth. "Goal-oriented adaptive surrogate construction for stochastic inversion." *Computer Methods in Applied Mechanics and Engineering* 339 (2018): 36-60. [(<u>DOI</u>)](https://doi.org/10.1016/j.cma.2018.04.045)
 
@@ -38,4 +40,12 @@ Backes, Tracy M., Russell Latterman, Stephen A. Small, **Steven Mattis**, Gwyn P
 
 JOURNAL ARTICLES UNDER REVIEW
 ======
-**Mattis, S.** and T. Butler, "Enhancing piecewise defined surrogate response surfaces with adjoints on sets of unstructured samples to solve stochastic inverse problems." submitted to *International Journal for Numerical Methods in Engineering*
+
+Parente, M. T., Bittner, D., **Mattis, S.**, Chiogna, G., & Wohlmuth, B. (2019). Bayesian calibration and sensitivity analysis for a karst aquifer model using active subspaces. arXiv preprint [(<u>DOI</u>)](https://arxiv.org/abs/1901.03283)
+
+Bittner, D., Parente, M. T., **Mattis, S.**, Wohlmuth, B., & Chiogna, G. (2018). On the relationship between parameters and discharge data for a lumped karst aquifer model. arXiv preprint [(<u>DOI</u>)](https://arxiv.org/abs/1808.07009)
+
+**Mattis, Steven A.** and Barbara Wohlmuth, Reduced order modeling for problems with both smooth/affine and nonsmooth/monaffine parametric dependence, submitted
+
+
+	
