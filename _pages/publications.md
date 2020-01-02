@@ -14,7 +14,7 @@ DISSERTATIONS & THESES
 
 JOURNAL ARTICLES
 ======
-Bittner, D., Parente, M. T., **Mattis, S.**, Wohlmuth, B., & Chiogna, G. Identifying relevant hydrological and catchment properties in active subspaces: An inference study of a lumped karst aquifer model. *Advances in Water Resources*, 135 (2020): 103472. [(<u>DOI</u>)](https://doi.org/10.1016/j.advwatres.2019.103472)
+Bittner, D., Parente, M. T., **Mattis, S.**, Wohlmuth, B., and Chiogna, G. Identifying relevant hydrological and catchment properties in active subspaces: An inference study of a lumped karst aquifer model. *Advances in Water Resources*, 135 (2020): 103472. [(<u>DOI</u>)](https://doi.org/10.1016/j.advwatres.2019.103472)
 
 Parente, M. T., Bittner, D., **Mattis, S.**, Chiogna, G., and Wohlmuth, B.  Bayesian calibration and sensitivity analysis for a karst aquifer model using active subspaces. *Water Resources Research,* 55.8 (2019): 7086-7107 [(<u>DOI</u>)](https://doi.org/10.1029/2019WR024739)
 
