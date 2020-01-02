@@ -14,11 +14,15 @@ DISSERTATIONS & THESES
 
 JOURNAL ARTICLES
 ======
-**Mattis, S.** and T. Butler, "Enhancing piecewise defined surrogate response surfaces with adjoints on sets of unstructured samples to solve stochastic inverse problems." (accepted) *International Journal for Numerical Methods in Engineering*
+Bittner, D., Parente, M. T., **Mattis, S.**, Wohlmuth, B., & Chiogna, G. Identifying relevant hydrological and catchment properties in active subspaces: An inference study of a lumped karst aquifer model. *Advances in Water Resources*, 135 (2020): 103472. [(<u>DOI</u>)](https://doi.org/10.1016/j.advwatres.2019.103472)
 
-Parente, M. T., **Mattis, S.**, Gupta, S., Deusner, C., and B. Wohlmuth. "Efficient parameter estimation for a methane hydrate model with active subspaces." *Computational Geosciences* (accepted). [(<u>DOI</u>)](https://doi.org/10.1007/s10596-018-9769-x)
+Parente, M. T., Bittner, D., **Mattis, S.**, Chiogna, G., and Wohlmuth, B.  Bayesian calibration and sensitivity analysis for a karst aquifer model using active subspaces. *Water Resources Research,* 55.8 (2019): 7086-7107 [(<u>DOI</u>)](https://doi.org/10.1029/2019WR024739)
 
-He, J., **S. Mattis**, T. Butler, and C. Dawson, "Data-driven uncertainty quantification for predictive flow and transport modeling using support vector machines." *Computational Geosciences* (accepted). [(<u>DOI</u>)](https://doi.org/10.1007/s10596-018-9762-4)
+**Mattis, S.** and T. Butler, "Enhancing piecewise defined surrogate response surfaces with adjoints on sets of unstructured samples to solve stochastic inverse problems." *International Journal for Numerical Methods in Engineering,* 119:10 (2019): 923-940. [(<u>DOI</u>)](https://doi.org/10.1002/nme.6078)
+
+Parente, M. T., **Mattis, S.**, Gupta, S., Deusner, C., and B. Wohlmuth. "Efficient parameter estimation for a methane hydrate model with active subspaces." *Computational Geosciences,* 23:10 (2019): 355-372. [(<u>DOI</u>)](https://doi.org/10.1007/s10596-018-9769-x)
+
+He, J., **S. Mattis**, T. Butler, and C. Dawson, "Data-driven uncertainty quantification for predictive flow and transport modeling using support vector machines." *Computational Geosciences,* 23:355 (2019) 631-645. [(<u>DOI</u>)](https://doi.org/10.1007/s10596-018-9762-4)
 
 **Mattis, S.**, Kees, C., Wei, M., Dimakopoulos, A. and Dawson, C. "Computational model for wave attenuation by flexible vegetation." *Journal of Waterway, Port, Coastal and Ocean Engineering* 145.1 (2018): 04018033. [(<u>DOI</u>)](https://doi.org/10.1061/(ASCE)WW.1943-5460.0000487)
 
@@ -37,15 +41,5 @@ Sund, Nicole, Diogo Bolster, **Steven Mattis**, and Clint Dawson. "Pre-asymptoti
 **Mattis, Steven A.**, Clint N. Dawson, Christopher E. Kees, and Matthew W. Farthing. "Numerical modeling of drag for flow through vegetated domains and porous structures." *Advances in Water Resources* 39 (2012): 44-59. [(<u>DOI</u>)](https://doi.org/10.1016/j.advwatres.2012.01.002)
 
 Backes, Tracy M., Russell Latterman, Stephen A. Small, **Steven Mattis**, Gwyn Pauley, Emily Reilly, and Sharon R. Lubkin. "Convergent extension by intercalation without mediolaterally fixed cell motion. *Journal of Theoretical Biology* 256, no. 2 (2009): 180-186. [(<u>DOI</u>)](https://doi.org/10.1016/j.jtbi.2008.08.031)
-
-JOURNAL ARTICLES UNDER REVIEW
-======
-
-Parente, M. T., Bittner, D., **Mattis, S.**, Chiogna, G., & Wohlmuth, B. (2019). Bayesian calibration and sensitivity analysis for a karst aquifer model using active subspaces. arXiv preprint [(<u>DOI</u>)](https://arxiv.org/abs/1901.03283)
-
-Bittner, D., Parente, M. T., **Mattis, S.**, Wohlmuth, B., & Chiogna, G. (2018). On the relationship between parameters and discharge data for a lumped karst aquifer model. arXiv preprint [(<u>DOI</u>)](https://arxiv.org/abs/1808.07009)
-
-**Mattis, Steven A.** and Barbara Wohlmuth, Reduced order modeling for problems with both smooth/affine and nonsmooth/monaffine parametric dependence, submitted
-
 
 	
