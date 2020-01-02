@@ -8,12 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-**Position:**
-======
-Postdoctoral Researcher
 
-Department of Statistics
-
+Postdoctoral Researcher <br />
+Department of Statistics <br />
 Colorado State University
 
 **Research Interests:**
