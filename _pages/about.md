@@ -10,21 +10,16 @@ redirect_from:
 
 **Position:**
 ======
-* Postdoctoral Researcher
-* Chair of Numerical Mathematics
-* Technical University of Munich
+Postdoctoral Researcher
+
+Department of Statistics
+
+Colorado State University
 
 **Research Interests:**
 ======
-Applied Mathematics, Computational Hydrology, Finite Element Methods, Fluid-Structure Interaction, Uncertainty Quantification, Transport Models, Error Estimation, Surrogate Modeling, Dimension Reduction
+Computational Hydrology, Machine Learning, Finite Element Methods, Fluid-Structure Interaction, Uncertainty Quantification, Transport Models, Error Estimation, Surrogate Modeling, Dimension Reduction
 	
 **Contact:**
-======
-* Address: 
-  M2 - Chair of Numerical Mathematics,	
-  Boltzmannstraße 3,	
-  85748 Garching, Germany
-* Office: 03.10.055	
-* Phone: +49 89 289 18404	
-* E-mail: mattis@ma.tum.de
-* Citizenship: The United States of America
+======	
+* E-mail: Steven.Mattis@colostate.edu
