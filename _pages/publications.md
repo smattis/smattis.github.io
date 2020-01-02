@@ -14,27 +14,27 @@ DISSERTATIONS & THESES
 
 JOURNAL ARTICLES
 ======
-Bittner, D., Parente, M. T., **Mattis, S.**, Wohlmuth, B., and Chiogna, G. Identifying relevant hydrological and catchment properties in active subspaces: An inference study of a lumped karst aquifer model. *Advances in Water Resources*, 135 (2020): 103472. [(<u>DOI</u>)](https://doi.org/10.1016/j.advwatres.2019.103472)
+Bittner, D., Parente, M. T., **Mattis, S.**, Wohlmuth, B., and Chiogna, G. Identifying relevant hydrological and catchment properties in active subspaces: An inference study of a lumped karst aquifer model. *Advances in Water Resources* 135 (2020): 103472. [(<u>DOI</u>)](https://doi.org/10.1016/j.advwatres.2019.103472)
 
-Parente, M. T., Bittner, D., **Mattis, S.**, Chiogna, G., and Wohlmuth, B.  Bayesian calibration and sensitivity analysis for a karst aquifer model using active subspaces. *Water Resources Research,* 55.8 (2019): 7086-7107 [(<u>DOI</u>)](https://doi.org/10.1029/2019WR024739)
+Parente, M. T., Bittner, D., **Mattis, S.**, Chiogna, G., and Wohlmuth, B.  Bayesian calibration and sensitivity analysis for a karst aquifer model using active subspaces. *Water Resources Research* 55.8 (2019): 7086-7107 [(<u>DOI</u>)](https://doi.org/10.1029/2019WR024739)
 
-**Mattis, S.** and T. Butler, "Enhancing piecewise defined surrogate response surfaces with adjoints on sets of unstructured samples to solve stochastic inverse problems." *International Journal for Numerical Methods in Engineering,* 119:10 (2019): 923-940. [(<u>DOI</u>)](https://doi.org/10.1002/nme.6078)
+**Mattis, S.** and T. Butler, "Enhancing piecewise defined surrogate response surfaces with adjoints on sets of unstructured samples to solve stochastic inverse problems." *International Journal for Numerical Methods in Engineering* 119:10 (2019): 923-940. [(<u>DOI</u>)](https://doi.org/10.1002/nme.6078)
 
-Parente, M. T., **Mattis, S.**, Gupta, S., Deusner, C., and B. Wohlmuth. "Efficient parameter estimation for a methane hydrate model with active subspaces." *Computational Geosciences,* 23:10 (2019): 355-372. [(<u>DOI</u>)](https://doi.org/10.1007/s10596-018-9769-x)
+Parente, M. T., **Mattis, S.**, Gupta, S., Deusner, C., and B. Wohlmuth. "Efficient parameter estimation for a methane hydrate model with active subspaces." *Computational Geosciences* 23 (2019): 355-372. [(<u>DOI</u>)](https://doi.org/10.1007/s10596-018-9769-x)
 
-He, J., **S. Mattis**, T. Butler, and C. Dawson, "Data-driven uncertainty quantification for predictive flow and transport modeling using support vector machines." *Computational Geosciences,* 23:355 (2019) 631-645. [(<u>DOI</u>)](https://doi.org/10.1007/s10596-018-9762-4)
+He, J., **S. Mattis**, T. Butler, and C. Dawson, "Data-driven uncertainty quantification for predictive flow and transport modeling using support vector machines." *Computational Geosciences* 23 (2019) 631-645. [(<u>DOI</u>)](https://doi.org/10.1007/s10596-018-9762-4)
 
 **Mattis, S.**, Kees, C., Wei, M., Dimakopoulos, A. and Dawson, C. "Computational model for wave attenuation by flexible vegetation." *Journal of Waterway, Port, Coastal and Ocean Engineering* 145.1 (2018): 04018033. [(<u>DOI</u>)](https://doi.org/10.1061/(ASCE)WW.1943-5460.0000487)
 
 **Mattis, Steven A.**, and Barbara Wohlmuth. "Goal-oriented adaptive surrogate construction for stochastic inversion." *Computer Methods in Applied Mechanics and Engineering* 339 (2018): 36-60. [(<u>DOI</u>)](https://doi.org/10.1016/j.cma.2018.04.045)
 
-Butler, T., L. Graham, **S. Mattis**, and S. Walsh "A measure-theoretic interpretation of sample based numerical integration with applications to inverse and prediction problems under uncertainty." *SIAM Journal on Scientific Computing*, 39.5 (2017): A2072-A2098. [(<u>DOI</u>)](https://doi.org/10.1137/16M1063289)
+Butler, T., L. Graham, **S. Mattis**, and S. Walsh "A measure-theoretic interpretation of sample based numerical integration with applications to inverse and prediction problems under uncertainty." *SIAM Journal on Scientific Computing* 39.5 (2017): A2072-A2098. [(<u>DOI</u>)](https://doi.org/10.1137/16M1063289)
 
 Presho, M., **S. Mattis**, and C. Dawson. "Uncertainty quantification of two-phase flow problems via measure theory and the generalized multiscale finite element method." *Computational Geosciences* 21.2 (2017): 187-204. [(<u>DOI</u>)](https://doi.org/10.1007/s10596-016-9603-2)
 
 **Mattis, Steven A.**, Troy D. Butler, Clint N. Dawson, Donald Estep, and Velimir V. Vesselinov.  "Parameter estimation and prediction for groundwater contamination based on measure theory." *Water Resources Research* 51.9 (2015): 7608-7629. [(<u>DOI</u>)](https://doi.org/10.1002/2015WR017295)
 
-Sund, Nicole, Diogo Bolster, **Steven Mattis**, and Clint Dawson. "Pre-asymptotic Transport Upscaling in Inertial and Unsteady Flows Through Porous Media." *Transport in Porous Media* (2015): 1-22. [(<u>DOI</u>)](https://doi.org/10.1007/s11242-015-0526-5)
+Sund, Nicole, Diogo Bolster, **Steven Mattis**, and Clint Dawson. "Pre-asymptotic Transport Upscaling in Inertial and Unsteady Flows Through Porous Media." *Transport in Porous Media* 109.2 (2015): 411-432. [(<u>DOI</u>)](https://doi.org/10.1007/s11242-015-0526-5)
 
 **Mattis, Steven A.**, Clint N. Dawson, Christopher E. Kees, and Matthew W. Farthing. "An immersed structure approach for fluid-vegetation interaction." *Advances in Water Resources* 80 (2015): 1-16. [(<u>DOI</u>)](https://doi.org/10.1016/j.advwatres.2015.02.014)
 
