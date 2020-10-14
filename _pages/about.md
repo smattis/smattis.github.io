@@ -9,14 +9,12 @@ redirect_from:
 ---
 
 
-Postdoctoral Researcher <br />
-Department of Statistics <br />
-Colorado State University
+Computational Scientist 
 
 **Research Interests:**
 ======
-Computational Hydrology, Machine Learning, Finite Element Methods, Fluid-Structure Interaction, Uncertainty Quantification, Transport Models, Error Estimation, Surrogate Modeling, Dimension Reduction
+Machine Learning, Finite Element Methods, Fluid-Structure Interaction, Uncertainty Quantification, Transport Models, Error Estimation, Surrogate Modeling, Dimension Reduction, Computational Hydrology
 	
 **Contact:**
 ======	
-* E-mail: Steven.Mattis@colostate.edu
+* E-mail: steve.a.mattis@gmail.com
